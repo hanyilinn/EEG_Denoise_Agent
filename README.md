@@ -1,4 +1,4 @@
-# EEG Denoise Agent
+# NeuroClean
 
 A unified LLM-agent framework for automated EEG artifact removal, integrating traditional signal processing (wavelet transform, filtering, ICA) and deep learning (EORNet with Mamba SSM) under a single conversational interface.
 
